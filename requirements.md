@@ -1,13 +1,3 @@
-# Requirements Document
-## AWS AI for Bharat Hackathon - Project Specification
-
-**Team Name:** THE-MATRIX  
-**Team Leader:** Sanjay Kumar  
-**Problem Statement:** AI for Healthcare & Life Sciences  
-**Project:** AI-Powered Antibiotic Resistance Prediction & Drug Discovery System
-
----
-
 ## 1. Project Overview
 
 An AI-powered unified platform that integrates genomics, machine learning, and molecular modeling to combat antimicrobial resistance (AMR). The system provides real-time DNA/protein sequence analysis, predicts antibiotic resistance patterns, generates novel drug candidates, and offers clinical decision support—all within minutes instead of the traditional 48-72 hours.
@@ -540,5 +530,3 @@ seaborn >= 0.12.0
 
 **Document Version:** 2.0 (Updated with Actual Implementation)  
 **Last Updated:** February 15, 2026  
-**Status:** Production-Ready - Deployed on Hugging Face Spaces  
-**Live Demo:** https://huggingface.co/spaces/MrSanjay/Antibiotic-Resistance-Predictor
