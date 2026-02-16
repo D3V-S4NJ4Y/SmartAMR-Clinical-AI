@@ -1,13 +1,3 @@
-# Design Document
-## AWS AI for Bharat Hackathon - Technical Design
-
-**Team Name:** THE-MATRIX  
-**Project:** AI-Powered Antibiotic Resistance Prediction & Drug Discovery System  
-**Version:** 1.0  
-**Date:** February 15, 2026
-
----
-
 ## 1. System Architecture
 
 ### 1.1 High-Level Architecture
@@ -1486,10 +1476,3 @@ app_file: main.py
 4. Multi-language support
 5. Federated learning for privacy
 
----
-
-**Document Version:** 2.0 (Updated with Actual Implementation)  
-**Last Updated:** February 15, 2026  
-**Status:** Production-Ready - Deployed on Hugging Face Spaces  
-**Live Demo:** https://huggingface.co/spaces/MrSanjay/Antibiotic-Resistance-Predictor  
-**GitHub Repository:** (To be created for hackathon submission)
