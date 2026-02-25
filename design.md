@@ -1442,26 +1442,8 @@ logger.error(f"Prediction failed: {error}")
 - Stress testing (1000+ sequences)
 - Memory profiling
 
-### 12.9 Deployment Configuration
 
-**Hugging Face Spaces:**
-```yaml
-# README.md metadata
-title: Antibiotic Resistance Predictor
-emoji: 🚀
-colorFrom: indigo
-colorTo: purple
-sdk: streamlit
-app_file: main.py
-```
-
-**Requirements:**
-- Python 3.9+
-- 2GB RAM minimum
-- CPU-optimized (no GPU required)
-- Internet connection for API calls
-
-### 12.10 Known Limitations and Future Work
+### 12.9 Known Limitations and Future Work
 
 **Current Limitations:**
 1. Research use only (not FDA-approved)
@@ -1480,3 +1462,4 @@ app_file: main.py
 
 **Document Version:** 2.0 (Updated with Actual Implementation)  
 **Last Updated:** February 15, 2026  
+
